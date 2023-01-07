@@ -1,4 +1,4 @@
-baseURL = "https://www.apreshill.com"
+baseURL = "https://nishant.website"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Alison Hill, PhD"
@@ -48,7 +48,7 @@ enableEmoji = true
   # Place image file in `static` folder and specify image name here.
   sharing_image = "/img/papillons.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "apreshill"
+  twitter = "surkh_syah"
 
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
